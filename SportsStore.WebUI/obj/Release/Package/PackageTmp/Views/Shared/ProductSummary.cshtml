@@ -1,0 +1,41 @@
+﻿@model SportsStore.Domain.Entities.Product
+
+@{
+    int id = Model.ProductID;
+    var name = Model.Name;
+    var description = Model.Description;
+    decimal price = Model.Price;
+    var image = Url.Content("~/Content/img/products/" + id + ".jpg");
+    
+    //var image = "/Content/img/products/" + id + ".jpg";
+}
+
+
+
+<div class="row">
+<div class="col-lg-2"><img src="@Url.Content("~/Content/img/products/" + id + ".jpg")" class="img-responsive" /></div>
+<div class="col-lg-8">
+  <h3> @Html.RouteLink(name, new{
+    controller = "Product",
+    action = "ProductDetail",
+    id = id,
+    product = name,
+    description = description,
+    price = price
+    
+}) </h3>
+
+
+    
+  
+    @using(Html.BeginForm("AddToCart", "Cart")){
+        @Html.HiddenFor(x => x.ProductID)
+        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+       
+        <input class="btn btn-default pull-right" type="submit" value="+ Add to cart" />
+    }
+    <h4>@Model.Price.ToString("c")</h4>
+    </div>
+
+</div>
+<hr />

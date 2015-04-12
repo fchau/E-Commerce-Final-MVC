@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <!--<link href="~/Content/Site.css" type="text/css" rel="stylesheet" />->
+            <!-- Bootstrap core CSS -->
+ 
+    @Styles.Render("~/Content/themes/style/css")
+    @Styles.Render("~/Content/css")
+   
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">GameStore</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+          <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("HOME", "Index", "Home")</li>
+     
+              <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">SHOP <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li>@{ Html.RenderAction("Menu", "Nav"); }</li>
+              </ul>
+            </li>
+            <li> @{Html.RenderAction("Summary", "Cart");}</li>
+             <li></li>
+          </ul>
+            <div class="col-sm-3 pull-right">
+                @using (Html.BeginForm ("Search","Product",FormMethod.Get ))
+                {
+            @Html.TextBox("query", null, new { @class = "form-control" });
+                
+                <input class="btn btn-
+                     pull-right" type="submit" value="Search" />
+ }
+            </div>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div id="blue">
+	    <div class="container">
+			<div class="row">
+				<h3>@ViewBag.Title</h3>
+			</div><!-- /row -->
+	    </div> <!-- /container -->
+	</div><!-- /blue -->
+
+    <div class="container well well-lg">
+	 	<div class="row">
+             <! -- SIDEBAR -->
+	 	<!--	<div class="col-lg-2">
+                 
+                     <ul class="sidebar-nav">
+                         <li class="sidebar-brand">
+                  
+                             </li>
+                         </ul>
+                    
+            </div> -->
+             
+                 @RenderBody()
+             
+        </div>
+       </div>
+
+
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+        <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    @Scripts.Render("~/bundles/js")
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    
+
+</body>
+</html>

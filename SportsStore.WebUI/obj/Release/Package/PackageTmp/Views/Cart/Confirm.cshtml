@@ -1,0 +1,103 @@
+﻿@model SportsStore.WebUI.Models.Checkout
+@{
+    ViewBag.Title = "Order Submitted";
+    decimal multiplier = 1;
+    decimal tax = 1;
+    if (Model.ShippingDetails.State == "CA") { multiplier = 1.0875m;
+                                               tax = 0.0875m;}
+    decimal total = Model.Cart.ComputeTotalValue() * @multiplier;
+    
+    }
+<h2>Please Confirm Your Order</h2>
+<p>Take a look below to make sure the information is correct.</p>
+<div class="col-lg-6">
+<table class="table">
+    <tbody>
+      <tr>
+          <td>Name:</td>
+          <td>@Model.ShippingDetails.Name</td>
+      </tr>
+      <tr>
+          <td>Phone:</td>
+          <td>@Model.ShippingDetails.Phone</td>
+      </tr>
+      <tr>
+          <td>Address:</td>
+          <td>@Model.ShippingDetails.Line1</td>
+      </tr>
+    @if (Model.ShippingDetails.Line2.IsEmpty()) {
+    <tr>
+          <td colspan"1"></td>
+          <td>@Model.ShippingDetails.City , @Model.ShippingDetails.State @Model.ShippingDetails.Zip</td>
+
+      </tr>
+    }else {
+        <tr>
+          <td colspan="1"></td>
+          <td>@Model.ShippingDetails.Line2</td>
+      </tr>
+       <tr>
+          <td colspan"1"></td>
+          <td>@Model.ShippingDetails.City , @Model.ShippingDetails.State @Model.ShippingDetails.Zip</td>
+
+      </tr>
+    }
+       <tr>
+          <td colspan"1"></td>
+          <td>@Model.ShippingDetails.Country</td>
+
+      </tr>
+      
+      
+
+    </tbody>
+</table>
+    </div>
+<div class="col-lg-6">
+     <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th><th>Quantity</th><th>Price</th><th>Subtotal</th>
+            </tr>
+        </thead>
+@foreach (var line in Model.Cart.Lines)
+{
+
+      <tr>
+          <td>@line.Product.Name</td>
+          <td>@line.Quantity</td>
+          <td>@line.Product.Price.ToString("c")</td>
+          <td>@((line.Quantity * line.Product.Price).ToString("c"))</td>
+
+      </tr>
+}
+         <tr>
+             <td colspan="2" align="right">Tax:</td>
+            <td align="right">
+            @((Model.Cart.ComputeTotalValue() * tax).ToString("c"))
+            </td>
+         </tr>
+         <tr>
+             <td colspan="2" align="right">Total:</td>
+            <td align="right">
+            @total.ToString("c")
+            </td>
+         </tr>
+</table>
+    <p align="center" >
+        
+@using (Html.BeginForm("Confirm", "Cart")){
+        @Html.HiddenFor(m => m.ShippingDetails.Name)
+        @Html.HiddenFor(m => m.ShippingDetails.Phone)
+        @Html.HiddenFor(m => m.ShippingDetails.City)
+        @Html.HiddenFor(m => m.ShippingDetails.Country)
+        @Html.HiddenFor(m => m.ShippingDetails.Line1)
+        @Html.HiddenFor(m => m.ShippingDetails.State)
+        @Html.HiddenFor(m => m.ShippingDetails.Line2)
+        @Html.ActionLink("Go Back", "Checkout", null, new { @class = "btn btn-primary" })
+        <input class="btn btn-primary" type="submit" value="Complete Order">
+        }
+
+</p>
+
+</div>

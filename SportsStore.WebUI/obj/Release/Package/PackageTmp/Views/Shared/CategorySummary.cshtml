@@ -1,0 +1,17 @@
+﻿@model SportsStore.Domain.Entities.Categories
+
+@{
+    int id = Model.CategoryID;
+    var name = Model.CategoryName;
+
+}
+
+
+ @Html.RouteLink(name, new{
+    controller = "Product",
+    action = "List",
+    id = id,
+    name = name
+})
+
+

@@ -1,0 +1,72 @@
+﻿@model SportsStore.Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "Checkout";
+ 
+}
+
+<h2>Checkout now</h2>
+<p>Please enter your details, and we'll ship your goods right away!</p>
+<div class="col-lg-8">
+@using (Html.BeginForm())
+{
+        @Html.ValidationSummary()
+
+       <h3>Ship to</h3>
+    <div class="f_row">@Html.LabelFor(x => x.Name) @Html.EditorFor(x => x.Name)</div>
+    <div class="f_row">@Html.LabelFor(x=> x.Phone) @Html.EditorFor(x => x.Phone)</div>
+    <h3>Address</h3>
+    <div class="f_row">@Html.LabelFor(x =>x.Line1) @Html.EditorFor(x => x.Line1)</div>
+    <div class="f_row">@Html.LabelFor(x =>x.Line2) @Html.EditorFor(x => x.Line2)</div>
+     <div class="f_row">@Html.LabelFor(x =>x.Zip) @Html.TextBoxFor(x => x.Zip, new { style = "width:100px", @maxlength = "5" })</div>
+
+    <div class="f_row"> @Html.LabelFor(x =>x.City) @Html.EditorFor(x => x.City)  @Html.LabelFor(x =>x.State) @Html.DropDownListFor(x => x.State, Model.States)</div>
+   
+    <div class="f_row">@Html.LabelFor(x =>x.Country) @Html.EditorFor(x => x.Country)</div>
+    
+    <h3>Options</h3>
+    <div class="f_row">
+        @Html.LabelFor(x =>x.GiftWrap)
+        @Html.EditorFor(x => x.GiftWrap)
+        Gift wrap these items
+    </div>
+    <p align="center">
+        <input class="actionButtons" type="submit" value="Complete order" />
+    </p>
+}
+    </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>
+    "use strict";
+
+    $(document).ready(function () {
+        /*
+        $('#zipCode').change(function(e){
+            var zipCode = $(this).val();
+    
+            var requestURL = 'http://ziptasticapi.com/' + zipCode +'?callback=?';
+            $.getJSON(requestURL, null, function(data){
+                console.log(data);
+                
+                if (data.city) $('#city').val(data.city);
+                if (data.state) $('#state').val(data.state);
+            });
+        });
+        */
+
+        $('#Zip').keyup(function (e) {
+            var zipCode = $(this).val();
+
+            // don't do anything until/unless the zip code is at least five characters long and numeric
+            if (zipCode.length === 5 && $.isNumeric(zipCode)) {
+                var requestURL = 'http://ziptasticapi.com/' + zipCode + '?callback=?';
+                $.getJSON(requestURL, null, function (data) {
+                    console.log(data);
+
+                    if (data.city) $('#City').val(data.city);
+                    if (data.state) $('#States').val(data.state);
+                });
+            }
+        });
+    });
+</script>

@@ -1,0 +1,241 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csproj.App.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\obj\Debug\SportsStore.Tests.csproj.App.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\obj\Debug\SportsStore.Tests.csproj.App.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SearchAdded - Copy\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\obj\Debug\SportsStore.Tests.csproj.App.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\ZipTastic.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\obj\Debug\SportsStore.Tests.csproj.App.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb

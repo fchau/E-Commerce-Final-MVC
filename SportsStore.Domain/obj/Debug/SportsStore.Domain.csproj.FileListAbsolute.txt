@@ -1,0 +1,102 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1SideBarAdded\SportsStore.Domain\bin\Debug\ZipTastic.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\ZipTastic.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\CIS451Project1EmailConfirmination 120114\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

@@ -1,0 +1,57 @@
+﻿@model SportsStore.WebUI.Models.Checkout
+
+@{
+    ViewBag.Title = "Reciept";
+    decimal multiplier = 1;
+    decimal tax = 1;
+    if (Model.ShippingDetails.State == "CA") { multiplier = 1.0875m;
+                                               tax = 0.0875m;}
+    decimal total = Model.Cart.ComputeTotalValue() * @multiplier;
+    
+}
+
+<h2>Your Receipt Is Below</h2>
+
+<div class="col-lg-12">
+    <h3>GameStore</h3>
+    <p>Thank you for shopping. Your order details are below.</p>
+<h4>Order Review</h4>
+<hr />
+<p>Date: @DateTime.Now</p>
+<h4>Items In Your Order</h4>
+<table class="table">
+        <thead>
+            <tr>
+                <th>Product</th><th>Quantity</th><th>Price</th><th>Subtotal</th>
+            </tr>
+        </thead>
+@foreach (var line in Model.Cart.Lines)
+{
+
+      <tr>
+          <td>@line.Product.Name</td>
+          <td>@line.Quantity</td>
+          <td>@line.Product.Price.ToString("c")</td>
+          <td>@((line.Quantity * line.Product.Price).ToString("c"))</td>
+
+      </tr>
+}
+         <tr>
+             <td colspan="3" align="right">Tax:</td>
+            <td align="right">
+            @((Model.Cart.ComputeTotalValue() * tax).ToString("c"))
+            </td>
+         </tr>
+         <tr>
+             <td colspan="3" align="right">Total:</td>
+            <td align="right">
+            @total.ToString("c")
+            </td>
+         </tr>
+</table>
+
+  </div>
+<div class="col-lg-12">
+    <p align="center">Thank you for your business. If you have any questions, please contact us.</p>
+
+</div>

@@ -1,0 +1,19 @@
+﻿@model SportsStore.WebUI.Models.CategoryListModel
+@using SportsStore.WebUI.HtmlHelpers;
+
+
+
+
+<ul class="sidebar-nav">
+<li class="sidebar-brand">
+    @Html.ActionLink("Home", "List", "Product")
+@foreach (var p in Model.Categories)
+{
+    
+    Html.RenderPartial("CategorySummary", p);
+    
+}
+    </li>
+</ul>
+
+

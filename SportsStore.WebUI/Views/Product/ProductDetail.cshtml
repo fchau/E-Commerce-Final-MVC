@@ -1,0 +1,35 @@
+﻿@model SportsStore.Domain.Entities.Product
+
+@{
+    ViewBag.Title = "Product Detail";
+    int id = Model.ProductID;
+    var image = "/Content/img/products/" + id + ".jpg";
+}
+
+
+<div class="col-lg-2">
+<ul class="sidebar-nav">
+<li class="sidebar-brand">
+ @{ Html.RenderAction("Sidebar", "Nav"); }
+          </li>
+</ul>
+    </div>
+
+<div class="container">
+<div class="col-lg-3"><img src="@image" class="img-responsive" /></div>
+<div class="col-lg-7">
+
+ <h3 class="pull-right">@Model.Price.ToString("c")</h3>
+
+  <h3>@Model.Name</h3>
+    @Model.Description
+   
+    
+    @using(Html.BeginForm("AddToCart", "Cart")){
+        @Html.HiddenFor(x => x.ProductID)
+        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+        <input class="btn btn-default pull-right" type="submit" value="+ Add to cart" />
+    }
+   
+    </div>
+    </div>

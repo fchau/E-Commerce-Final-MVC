@@ -1,0 +1,27 @@
+﻿@model SportsStore.WebUI.Models.ProductsListViewModel
+@using SportsStore.WebUI.HtmlHelpers;
+
+@{
+    ViewBag.Title = "Products";
+}
+<div class="col-lg-2">
+<ul class="sidebar-nav">
+                         <li class="sidebar-brand">
+                  @{ Html.RenderAction("Sidebar", "Nav"); }
+                             </li>
+</ul>
+    </div>
+<div class="col-lg-10">
+@foreach (var p in Model.Products)
+{
+    
+    Html.RenderPartial("ProductSummary", p);
+    
+}
+
+ <div class="pager" style="clear: both;">  
+     @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new {page = x, category = Model.CurrentCategory}))
+ </div>
+</div>
+
+

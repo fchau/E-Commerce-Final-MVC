@@ -1,0 +1,86 @@
+﻿@model SportsStore.WebUI.Models.CartIndexViewModel
+@using System.Linq
+
+@{
+    ViewBag.Title = "Checkout Summary";
+}
+<div class="col-lg-2">
+<ul class="sidebar-nav">
+                         <li class="sidebar-brand">
+                  @{ Html.RenderAction("Sidebar", "Nav"); }
+                             </li>
+</ul>
+    </div>
+<div class="col-lg-10">
+<h2>Your Cart</h2>
+<table width="90%" align="center">
+<thead><tr>
+<th align="center">ProductID</th>
+<th align="center">Quantity</th>
+<th align="left">Item</th>
+<th align="right">Price</th>
+<th align="right">Subtotal</th>
+</tr></thead>
+<tbody>
+    @if( !Model.Cart.Lines.Any() )
+{
+    <tr><td>Your Cart is Empty!</td></tr>
+}
+else
+{
+foreach(var line in Model.Cart.Lines) {
+
+<tr>
+    <td>@line.Product.ProductID</td>
+    <td>
+        @using(Html.BeginForm("UpdateCart", "Cart")){
+        @Html.Hidden("ProductId", line.Product.ProductID)  
+            
+        @Html.HiddenFor(x => x.ReturnUrl)
+        @Html.TextBox("quantity", line.Quantity, new { style = "width:50px", @maxlength = "5", @type = "number", @min="1" }) <!--onkeydown="return ValidateNumber(event);"-->
+        <input class="btn btn-sm btn-warning" type="submit" value="Update" />
+        
+    }
+        
+        </td>
+        <td>@line.Product.Name</td>
+        <td>@line.Product.Price.ToString("c")</td>
+        <td>@((line.Quantity
+        * line.Product.Price).ToString("c"))</td>
+        <td>
+            @using (Html.BeginForm("RemoveFromCart", "Cart"))
+            {
+                @Html.Hidden("ProductId", line.Product.ProductID)
+                @Html.HiddenFor(x => x.ReturnUrl)
+                <input class="btn btn-sm btn-warning" type="submit" value="Remove" />
+            }
+        </td>
+</tr>
+        }
+    }
+</tbody>
+<tfoot><tr>
+<td colspan="3" align="right">Total:</td>
+<td align="right">
+@Model.Cart.ComputeTotalValue().ToString("c")
+</td>
+</tr></tfoot>
+</table>
+   
+<p align="center" >
+@Html.ActionLink("Empty Cart", "EmptyCart", new { returnUrl = Model.ReturnUrl }, new { @class = "btn btn-primary" })
+<a class="btn btn-primary" href="@Model.ReturnUrl">Continue shopping</a>
+@Html.ActionLink("Checkout now", "Checkout", null, new { @class = "btn btn-primary" })
+</p>
+    </div>
+
+<script type="text/javascript">
+       function ValidateNumber(e) {
+           var evt = (e) ? e : window.event;
+           var charCode = (evt.keyCode) ? evt.keyCode : evt.which;
+           if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+               return false;
+           }
+           return true;
+       };
+    </script>

@@ -1,0 +1,26 @@
+﻿@model SportsStore.WebUI.Models.ProductsListViewModel
+@using SportsStore.WebUI.HtmlHelpers;
+
+@{
+    ViewBag.Title = "Search";
+    bool found = false;
+}
+
+
+@foreach (var p in Model.Products)
+{
+       
+        found = true;
+        Html.RenderPartial("ProductSummary", p);
+        
+}
+    
+@if (found == false)
+{
+   @:<p>Search query not found!</p> 
+}
+
+ <div class="pager">  
+     @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new {page = x, category = Model.CurrentCategory}))
+ </div>
+
