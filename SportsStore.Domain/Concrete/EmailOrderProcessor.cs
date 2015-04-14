@@ -9,7 +9,7 @@ namespace SportsStore.Domain.Concrete {
         public string MailFromAddress = "frankchau93@gmail.com";
         public bool UseSsl = true;
         public string Username = "frankchau93@gmail.com";
-        public string Password = "Objection!";
+        public string Password = "****";
         public string ServerName = "smtp.gmail.com";
         public int ServerPort = 587; //587
         public bool WriteAsFile = false;
